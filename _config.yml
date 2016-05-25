@@ -1,14 +1,14 @@
-layout_spectrum: 0.7857375
+layout_spectrum: 0.4269603
 typography_spectrum: 0.07221712
 color:
   saturation: 0.7782643
   lightness: 0.8582983
   brandStrength: 0.773623
-  rhythmicContrast: 0.5961593
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#060606'
+    - '#F3F3F3'
+    - '#ACACAC'
+    - '#353535'
+    - '#5C5C5C'
+  rhythmicContrast: 0.5961593
 name: mydeas
